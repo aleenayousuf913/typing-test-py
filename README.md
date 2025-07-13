@@ -7,6 +7,7 @@ Features
 - measures accuracy
 - no external libraries required
 
+
 Sample Output:
 
 Welcome to the Typing Speed Test!
