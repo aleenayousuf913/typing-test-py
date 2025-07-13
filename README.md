@@ -18,3 +18,6 @@ Your input: The quick brown fox jumps over the lazy sleeping dog
 Time taken: 14.72 seconds
 Speed: 43.21 words per minute (WPM)
 Accuracy: 100.0%
+
+P.S.
+If someone could teach me how to directly link my code to the repository; I have just been copy-pasting my code into github
